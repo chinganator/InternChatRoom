@@ -10,11 +10,16 @@ using Xamarin.Forms.Xaml;
 namespace InternChatRoom
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
-    public partial class WelcomePage : ContentPage
+    public partial class RegisterPage : ContentPage
     {
-        public WelcomePage()
+        public RegisterPage()
         {
             InitializeComponent();
+        }
+
+        async void Button_Clicked(object sender, EventArgs e)
+        {
+            await Navigation.PushAsync(new LoginPage());
         }
     }
 }

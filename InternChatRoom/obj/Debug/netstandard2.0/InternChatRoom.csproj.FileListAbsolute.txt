@@ -4,7 +4,6 @@ C:\Users\dching\source\repos\InternChatRoom\InternChatRoom\InternChatRoom\bin\De
 C:\Users\dching\source\repos\InternChatRoom\InternChatRoom\InternChatRoom\bin\Debug\netstandard2.0\InternChatRoom.pdb
 C:\Users\dching\source\repos\InternChatRoom\InternChatRoom\InternChatRoom\obj\Debug\netstandard2.0\App.xaml.g.cs
 C:\Users\dching\source\repos\InternChatRoom\InternChatRoom\InternChatRoom\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
-C:\Users\dching\source\repos\InternChatRoom\InternChatRoom\InternChatRoom\obj\Debug\netstandard2.0\WelcomePage.xaml.g.cs
 C:\Users\dching\source\repos\InternChatRoom\InternChatRoom\InternChatRoom\obj\Debug\netstandard2.0\InternChatRoom.AssemblyInfoInputs.cache
 C:\Users\dching\source\repos\InternChatRoom\InternChatRoom\InternChatRoom\obj\Debug\netstandard2.0\InternChatRoom.AssemblyInfo.cs
 C:\Users\dching\source\repos\InternChatRoom\InternChatRoom\InternChatRoom\obj\Debug\netstandard2.0\XamlC.stamp
@@ -12,3 +11,6 @@ C:\Users\dching\source\repos\InternChatRoom\InternChatRoom\InternChatRoom\obj\De
 C:\Users\dching\source\repos\InternChatRoom\InternChatRoom\InternChatRoom\obj\Debug\netstandard2.0\ref\InternChatRoom.dll
 C:\Users\dching\source\repos\InternChatRoom\InternChatRoom\InternChatRoom\obj\Debug\netstandard2.0\InternChatRoom.pdb
 C:\Users\dching\source\repos\InternChatRoom\InternChatRoom\InternChatRoom\obj\Debug\netstandard2.0\InternChatRoom.csprojAssemblyReference.cache
+C:\Users\dching\source\repos\InternChatRoom\InternChatRoom\InternChatRoom\obj\Debug\netstandard2.0\SecondPage.xaml.g.cs
+C:\Users\dching\source\repos\InternChatRoom\InternChatRoom\InternChatRoom\obj\Debug\netstandard2.0\LoginPage.xaml.g.cs
+C:\Users\dching\source\repos\InternChatRoom\InternChatRoom\InternChatRoom\obj\Debug\netstandard2.0\RegisterPage.xaml.g.cs

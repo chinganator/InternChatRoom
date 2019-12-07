@@ -10,7 +10,7 @@ namespace InternChatRoom
         {
             InitializeComponent();
 
-            MainPage = new WelcomePage();
+            MainPage = new NavigationPage ( new LoginPage());
         }
 
         protected override void OnStart()

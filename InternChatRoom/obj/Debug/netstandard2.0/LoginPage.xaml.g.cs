@@ -8,17 +8,17 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("InternChatRoom.WelcomePage.xaml", "WelcomePage.xaml", typeof(global::InternChatRoom.WelcomePage))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("InternChatRoom.LoginPage.xaml", "LoginPage.xaml", typeof(global::InternChatRoom.LoginPage))]
 
 namespace InternChatRoom {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("WelcomePage.xaml")]
-    public partial class WelcomePage : global::Xamarin.Forms.ContentPage {
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("LoginPage.xaml")]
+    public partial class LoginPage : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
         private void InitializeComponent() {
-            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(WelcomePage));
+            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(LoginPage));
         }
     }
 }
